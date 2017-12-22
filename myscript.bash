@@ -1,1 +1,1 @@
-echo "some dummy contents !!" > file.txt
+echo "some dummy contents !" > file.txt
